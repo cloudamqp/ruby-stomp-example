@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    stomp (1.2.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  stomp
