@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    stomp (1.2.8)
+    stomp (1.4.9)
 
 PLATFORMS
   ruby
